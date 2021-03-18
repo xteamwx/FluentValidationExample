@@ -164,6 +164,6 @@ public class UserController : ControllerBase
 
 本篇源代码 https://github.com/xteamwx/FluentValidationExample
 
-> 作者：SAMURAI
-> 出处： 原创
+> 作者：SAMURAI/n
+> 出处： 原创/n
 > 版权：本作品采用「署名-非商业性使用-相同方式共享 4.0 国际」许可协议进行许可。
